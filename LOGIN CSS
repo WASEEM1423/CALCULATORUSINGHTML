@@ -1,0 +1,18 @@
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+
+}
+.name
+{
+    flex: 1 0 130px;
+}
+.email {
+    flex: 1 0 110px;
+}
+.button
+{
+    flex: 1 0 70px;
+}
